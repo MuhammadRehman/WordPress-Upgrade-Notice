@@ -1,0 +1,17 @@
+Need to do following steps to implement upgrade functionality with in your plugin.
+
+1. Open upgarde.php file and add your plugin details in slug, folder name & file name
+2. Change trunk readme SVN link to your plugin's trunk readme SVN path.
+3. Make sure you have added correct format in your readme.txt file on SVN which is mentions below.
+
+Example
+== Upgrade Notice ==
+
+= 3.0 =
+*Important:* This is a major update. Please remember to backup your data before proceeding with the update.
+
+== Admin Notice ==
+
+= 3.0 =
+*Important:* This plugin releases database related fixes please take backup before update the plugin, for more details [click here](https://muhammadrehman.com)
+

@@ -1,0 +1,12 @@
+.wp-uprade-msg p:before {content: ''}
+
+.wp-uprade-msg {
+    display: block;
+    padding: 5px;
+    margin: 2px;
+    width: 100% !important;
+}
+
+.wp-uprade-msg div {
+    display: none;
+}
