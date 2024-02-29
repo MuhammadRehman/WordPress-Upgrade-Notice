@@ -5,7 +5,7 @@
   "require": {
     "php": ">=5.3.0"
   },
-  "license": "GPL",
+  "license": "proprietary",
   "authors": [
     {
       "name": "Muhammad Rehman",
