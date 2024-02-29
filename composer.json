@@ -1,0 +1,16 @@
+{
+  "name": "mrehman/wp-plugin-upgrade-notice",
+  "description": "Display plugin upgrade notice",
+  "type": "library",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Muhammad Rehman",
+      "email": "muammadrehman277@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
