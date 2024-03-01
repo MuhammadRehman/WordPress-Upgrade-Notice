@@ -1,6 +1,7 @@
 {
   "name": "mrehman/wp-plugin-upgrade-notice",
   "description": "Display plugin upgrade notice",
+  "version": "1.0",
   "type": "library",
   "require": {
     "php": ">=5.3.0"
