@@ -30,6 +30,7 @@ composer require mrehman/wp-plugin-upgrade-notice
 You need to write the exact format for the upgrade message and admin notice. Below are examples of how to write it in your plugin's readme.txt file in the WordPress SVN directory.
 
 Example
+```
 == Upgrade Notice ==
 
 = 3.0 =
@@ -39,3 +40,4 @@ Example
 
 = 3.0 =
 *Important:* This plugin releases database related fixes please take backup before update the plugin, for more details [click here](https://muhammadrehman.com)
+```
