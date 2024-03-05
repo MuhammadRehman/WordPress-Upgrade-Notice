@@ -2,6 +2,16 @@
 
 A small PHP script that built for WordPress plugins to display an upgrade message right under the plugin update area and also you can display an admin notice to notify your users related to how important is your plugin update. The best part is you don't need to edit plugin files when you want to display the upgrade message.
 
+- **Upgrade Notice**
+
+![image](https://github.com/MuhammadRehman/wordpress-plugin-upgrade-notice/assets/9959730/521db365-e12f-4b5a-8c68-877f7e72d04d)
+
+
+- **Admin Notice**
+
+![image](https://github.com/MuhammadRehman/wordpress-plugin-upgrade-notice/assets/9959730/9e08d9d0-25db-4b2c-9bfd-3178286ae5e7)
+
+
 ### Why do we use?
 Sometimes we need to display an upgrade message to our customers or users that the plugin you are using has major changes and you need to take a backup before the update or you need to update the following plugins in order to work the plugin and something else. 
 
