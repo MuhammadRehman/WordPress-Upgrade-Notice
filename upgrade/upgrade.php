@@ -119,6 +119,8 @@ Class WP_Upgrade_Notice {
 
         $content = $this->add_upgrade_msg( array( 'update' => true ), array(), 'Admin Notice' );
 
+        $html = $this->format_content($content);
+
         if( !empty( $html ) ) {
             ?>
                 <div class="wpe-notice notice notice-warning is-dismissible">
